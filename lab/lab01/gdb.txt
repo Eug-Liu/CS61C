@@ -1,0 +1,9 @@
+1.run, r + arg1 + arg2 ...
+2.break, b + function/line
+3.step/s
+4.next/n
+5.continue/c
+6.print + expression
+7.display + variable
+8.info local
+9.quit/q
